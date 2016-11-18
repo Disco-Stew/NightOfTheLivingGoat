@@ -1,0 +1,10 @@
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/task.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+/SimpleProject.iml
+/NightOfTheLivingGoat.iml
